@@ -2,4 +2,4 @@
 
 *.html
 
-markdown.xcodeproj/project.pbxproj
+*.xcodeproj
